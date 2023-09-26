@@ -36,7 +36,7 @@ Use (![])
 Github extends Markdown to have a list where you can check off items <sup>[1]</sup>
 
 - [x] Finish Step 1
-- [x] Finish Step 2
+- [ ] Finish Step 2
 - [x] Finish Step 3
 - [x] Finish Step 4
 ### Step 4 - Using Emojis <sup>[2]</sup>
